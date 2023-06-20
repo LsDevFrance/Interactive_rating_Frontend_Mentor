@@ -113,7 +113,7 @@ h3
 }
 
 p {
-    font-size: var(--normal-font-size);
+    font-size: 14px;
     color: var(--color-gray);
 }
 /* HEADER */
@@ -142,7 +142,7 @@ header {
 
 .thanks {
     z-index: 2;
-    right: -50%;
+    right: -1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
